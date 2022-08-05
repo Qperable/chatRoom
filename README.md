@@ -1,2 +1,2 @@
-# checkRoom
-simple check room
+# chatRoom
+simple chat room
